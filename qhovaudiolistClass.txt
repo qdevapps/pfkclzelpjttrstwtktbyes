@@ -1,0 +1,16 @@
+.qhovaudiolistClass {
+	border: 5px dotted #b548b5;
+	border-radius:29% 5% 5% 64%;
+	width: 280px;
+	height: 60px;
+	background: #00E484;
+	border: 5px #FF0000 solid;
+	border-top-left-radius: 29px;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 128px;
+}
+
+
+class="qhovaudiolistClass"
+

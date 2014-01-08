@@ -1,0 +1,61 @@
+/*
+// /// / <!-- qdchoverm.css con Css3 by: Daniel Cajiga. -->
+// /// / <!-- Testing  y Php by: qdevapps.com. -->
+ */
+<style type="text/css">
+
+	ul{
+		width:78%;
+		margin: 8 auto;
+		padding:0;
+	}
+	
+	ul li
+	{
+		list-style:none;
+		text-align:left;
+	}
+	
+	ul > li
+	{
+		position:relative;
+		float:left;
+		text-align:center;
+		width:280px;
+		background:#00E484;
+		
+	}
+	
+	ul li a
+	{
+		display:block;
+		color:black;
+		padding: 0.5em 0;
+		text-decoration:none;
+		
+	}
+	
+	ul li ul
+	{
+		display:none;
+		position:absolute;
+	}
+	
+	ul li:hover ul
+	{
+		display:block;
+	}
+	
+	ul li ul li:hover
+	{
+		background:#0084E4;
+	}
+	
+	ul li ul li a:hover
+	{
+		color:black;
+		font-weight:500;
+	}
+	
+
+</style>
